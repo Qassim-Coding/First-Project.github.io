@@ -31,4 +31,12 @@ git config --global user.email johnsmith@example.com
 ```sh
 git clone https://github.com/Qassim-Coding/First-Project.github.io/tree/421161c324df27319ca96dd61a63ce2b35993304 
 ```
-## commits
+## commit
+
+Make a commit and commit message without opening an editor 
+```sh
+git commit -m "add another exclamation"
+```
+## log
+
+git log will show recent git commits to the git tree
