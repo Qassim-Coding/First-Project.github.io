@@ -2,6 +2,8 @@
 
 There is a hidden folder called `.git` which tells you that our project is a git repo
 
+Revise commande `git init`
+
 ## cloning
 
 we can clone three ways : Https, SSh, Github cli
