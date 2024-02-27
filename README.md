@@ -4,10 +4,14 @@ There is a hidden folder called `.git` which tells you that our project is a git
 
 Revise commande `git init`
 
+## Reset 
+Reset allows you to move staged changes to be unstaged. 
+this is useful when you want to revert all files not being committed. 
+
 ## cloning
 
-we can clone three ways : Https, SSh, Github cli
-Since we are using Github codespaces we'll a create a temporary directoriy in our workspace
+we can clone three ways: Https, SSh, Github cli
+Since we are using Github codespaces we'll create a temporary directory in our workspace
 
 ### https
 
