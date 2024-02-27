@@ -13,6 +13,19 @@ this is useful when you want to revert all files not being committed.
 we can clone three ways: Https, SSh, Github cli
 Since we are using Github codespaces we'll create a temporary directory in our workspace
 
+## git config file
+
+This gitconfig file is what stores your global configurations for git such as email, name, editor and more.
+showing the contents of our .gitconfig file
+
+```
+git config --list
+```
+When you first install git on a machine, you are suppose to set up your name and email. 
+```sh
+git config --global user.name "John Smith"
+git config --global user.email johnsmith@example.com
+```
 ### https
 
 ```sh
